@@ -1,3 +1,5 @@
+![Money Manager Screenshot](./ss.png)
+
 # Money Manager
 
 A modern, client-side personal finance management application designed to help you track your expenses, manage budgets, and gain insights into your spending habits.
